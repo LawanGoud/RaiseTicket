@@ -1,0 +1,15 @@
+.ticket-header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+
+.ticket-header-section {
+    flex: 1;
+    text-align: center;
+    font-weight: bold;
+}
